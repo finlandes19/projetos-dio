@@ -4,7 +4,7 @@
 
 
 ## Requisitos
-Para utilizar o Microsoft Copilot Studio, primeiramente será preciso ter ou criar uma conta no Microsoft 365, umas das opções é acessar copilotstudio.microsoft.com ou mesmo procurar o site através do Google. No site de Copilot é possível adquirir uma assinatura trial para fins de estudos, se o seu objetivo é se familiarizar com a ferramenta. Vale lembrar também que o programa de desenvolvedor da Microsoft também permite acesso a ferramenta para fins de teste e desenvolvimento. 
+Para utilizar o Microsoft Copilot Studio, primeiramente será preciso ter ou criar uma conta no Microsoft 365, umas das opções é acessar [copilotstudio.microsoft.com](http://copilotstudio.microsoft.com) ou mesmo procurar o site através do Google. No site de Copilot é possível adquirir uma assinatura trial para fins de estudos, se o seu objetivo é se familiarizar com a ferramenta. Vale lembrar também que o programa de desenvolvedor da Microsoft também permite acesso a ferramenta para fins de teste e desenvolvimento. 
 
 
 ## Criar um Copilot Baseado em Modelo
